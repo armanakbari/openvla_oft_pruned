@@ -151,3 +151,22 @@ data/
 # Rollout videos and wandb logs
 rollouts/
 wandb/
+
+# Large datasets and external repositories
+modified_libero_rlds/
+LIBERO/
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+runs/
+models/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
